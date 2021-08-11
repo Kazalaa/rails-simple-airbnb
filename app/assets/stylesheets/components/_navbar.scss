@@ -1,0 +1,27 @@
+.navbar-lewagon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgb(242, 242, 242);
+  padding: 20px;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
+.btn-new{
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: rgb(196, 97, 97);
+  width: 80px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
